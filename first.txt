@@ -1,2 +1,9 @@
 this is first
+<<<<<<< HEAD
+
+
+
 this is for devss branch
+=======
+new changes in first
+>>>>>>> master
