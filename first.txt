@@ -8,3 +8,6 @@ this is for devss branch
 =======
 new changes in first
 >>>>>>> master
+
+
+This is new file changes in master branch
